@@ -1,0 +1,20 @@
+body {
+    background-color: #000000;
+    color: #1064bd;
+    padding: 30px;
+    font-family: serif;
+}
+
+/* Target the h1 tag to style the name */
+h1, h2 {
+    color: #cd2657;
+}
+
+/* Target paragraphs for readable spacing */
+p {
+    color: #f0b4ce;
+}
+
+a {
+    color: #1064bd;
+}
