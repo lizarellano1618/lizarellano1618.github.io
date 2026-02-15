@@ -1,21 +1,9 @@
-body {
-    background-color: #000000;
-    color: #1064bd;
-    padding: 30px;
-    font-family: serif;
-}
-
-
-h1, h2 {
-    color: #cd2657;
-}
-
-
-p {
-    color: #f0b4ce;
-}
-
-a {
-    color: #1064bd;
-
+body { 
+background-color: #000000; color: #1064bd; padding: 30px; /* Note: removed the space between 30 and px */ font-family: serif; 
+} 
+h1, h2 { color: #cd2657; 
+} 
+p { color: #f0b4ce; 
+} 
+a { color: #1064bd; 
 }
